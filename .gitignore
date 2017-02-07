@@ -1,0 +1,6 @@
+*
+!.gitignore
+!.profile
+!.git-completion.bash
+!.git_shell
+!.bash_profile
